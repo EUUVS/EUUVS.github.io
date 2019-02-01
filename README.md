@@ -1,1 +1,1 @@
-# EUUVS.github.io
+# Edinburgh University Unmanned Vehicle Society
