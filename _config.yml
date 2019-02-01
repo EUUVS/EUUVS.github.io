@@ -1,2 +1,7 @@
 theme: jekyll-theme-cayman
 title: Edinburgh University Unmanned Vehicle Society
+
+description: >
+  Edinburgh University Unmanned Vehicle Society is the best drone, unmanned aerial vehicle(uav) society in UK
+  
+url: "https://euuvs.github.io" # the base hostname & protocol for your site
